@@ -1,0 +1,21 @@
+.listItem {
+    margin-left: 20px;
+    background-color: #BDE5B7;
+    height: 35px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.listItem p{
+    margin-left: 7px;
+    padding-top: 5px;
+}
+
+.listItem button {
+    margin-left: 5px;
+}
+

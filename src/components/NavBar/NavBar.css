@@ -1,0 +1,29 @@
+.navbar {
+    width: 100%;
+    height: 30px;
+    background-color: #00B25D;
+
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar li {
+    list-style-type: none;
+    /* display: inline; */
+    padding: 5px 10px;
+    
+
+}
+
+.navbar a:hover {
+    color: #f08d3c;
+}

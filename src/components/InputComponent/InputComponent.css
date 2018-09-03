@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.form__input {
+    border-radius: 5px;
+    margin: 0 8px;
+}
+
+.form__input:hover {
+    background-color: #eee;
+}
